@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Junks
+Machine Learning taught by Andrew Ng on coursera.org
